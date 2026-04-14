@@ -14,7 +14,8 @@ const links = [
   { title: 'Home', to: '/' },
   { title: 'Card Example', to: '/card-example' },
   { title: 'Profile', to: '/profile' },
-  { title: 'Form', to: '/form' }
+  { title: 'Form', to: '/form' },
+  { title: 'Table', to: '/table' }
 ]
 
 
